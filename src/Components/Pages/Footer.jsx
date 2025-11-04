@@ -35,11 +35,11 @@ export default function Footer() {
               </p>
               <p className="mb-2">
                 <i className="fa fa-phone-alt me-3" />
-                +091 9392437621
+                +091 8978189695
               </p>
               <p className="mb-2">
                 <i className="fa fa-envelope me-3" />
-                hemanthkurapati097@gmail.com
+                joshivadranapu@gmail.com
               </p>
               <div className="d-flex pt-2">
                 <a

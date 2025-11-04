@@ -72,7 +72,7 @@ export default function Contact() {
                 </div>
                 <div className="ms-3">
                   <h5 className="text-primary">Mobile</h5>
-                  <p className="mb-0">+91 9392437621</p>
+                  <p className="mb-0">+91 8978189695</p>
                 </div>
               </div>
               <div className="d-flex align-items-center">
@@ -84,7 +84,7 @@ export default function Contact() {
                 </div>
                 <div className="ms-3">
                   <h5 className="text-primary">Email</h5>
-                  <p className="mb-0">hemanthkurapati097@gmail.com</p>
+                  <p className="mb-0">joshivadranapu@gmail.com</p>
                 </div>
               </div>
             </div>
